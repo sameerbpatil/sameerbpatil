@@ -54,7 +54,8 @@ export default () => ({
     "Intern at Larsen & Toubro Pvt Ltd."
   ],
   Acheivement: [
-    "Top performer in Hactoberfest organised by Crio.do"
+    "Falicited by Atos-Syntel "Smart Value Award" for outstanding performance.",
+    "Appreciated by Atos Syntel "Spot Recognition Award" for finding & resolving production bugs in a short time."
   ],
    Skills: [
     "Leadership", "Team Building", "Decision Making",
