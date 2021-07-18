@@ -54,8 +54,8 @@ export default () => ({
     "Intern at Larsen & Toubro Pvt Ltd."
   ],
   Acheivement: [
-    "Falicited by Atos-Syntel "Smart Value Award" for outstanding performance.",
-    "Appreciated by Atos Syntel "Spot Recognition Award" for finding & resolving production bugs in a short time."
+    "Falicited by Atos-Syntel "Smart Value Award" for outstanding performance at FedEx applications.",
+    "Appreciated by Atos-Syntel "Spot Recognition Award" for finding & resolving production bugs in a short time."
   ],
    Skills: [
     "Leadership", "Team Building", "Decision Making",
@@ -63,7 +63,7 @@ export default () => ({
   ],
    Interest: [
     "Technology", "Reading Books",
-    "Swimmming", "Music", "Volleyball;"
+    "Swimming", "Music", "Volleyball;"
   ]
 });
 ```
